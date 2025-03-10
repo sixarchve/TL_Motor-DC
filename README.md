@@ -1,1 +1,2 @@
-## **Repositori ini dibuat untuk menyelesaikan tugas 1 Sistem Automasi**
+## **Transformasi Laplace Motor DC**
+Khaif Alfansyuri - 235150300111034
